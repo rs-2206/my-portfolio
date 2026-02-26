@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Project One",
+        "description": "A brief description of Project One.",
+        "demoLink": "https://example.com/demo1",
+        "repoLink": "https://github.com/username/project-one"
+    },
+    {
+        "title": "Project Two",
+        "description": "A brief description of Project Two.",
+        "demoLink": "https://example.com/demo2",
+        "repoLink": "https://github.com/username/project-two"
+    },
+    {
+        "title": "Project Three",
+        "description": "A brief description of Project Three.",
+        "demoLink": "https://example.com/demo3",
+        "repoLink": "https://github.com/username/project-three"
+    }
+]
